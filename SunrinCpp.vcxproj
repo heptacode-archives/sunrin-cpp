@@ -19,9 +19,67 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="190408\circle.cpp" />
+    <ClCompile Include="190408\Exam3-3.cpp" />
+    <ClCompile Include="190408\Point.cpp" />
+    <ClCompile Include="190408\Rectangle.cpp" />
+    <ClCompile Include="190410\q40.cpp" />
+    <ClCompile Include="190410\q41.cpp" />
+    <ClCompile Include="190410\q42.cpp" />
+    <ClCompile Include="190410\q43.cpp" />
+    <ClCompile Include="190415\exam_p12.cpp" />
+    <ClCompile Include="190415\Human.cpp" />
+    <ClCompile Include="190417\Box.cpp" />
+    <ClCompile Include="190417\exam44.cpp" />
+    <ClCompile Include="190417\q48.cpp" />
+    <ClCompile Include="190417\rps.cpp" />
+    <ClCompile Include="190422\Circle.cpp" />
+    <ClCompile Include="190422\Circle2.cpp" />
+    <ClCompile Include="190422\소스포인터.cpp" />
+    <ClCompile Include="190508\day190508.cpp" />
+    <ClCompile Include="190508\ex58.cpp" />
+    <ClCompile Include="190520\day190520.cpp" />
+    <ClCompile Include="190520\q60.cpp" />
+    <ClCompile Include="190520\q61.cpp" />
+    <ClCompile Include="190520\q63.cpp" />
+    <ClCompile Include="190520\q64.cpp" />
+    <ClCompile Include="190527\190527.cpp" />
+    <ClCompile Include="190527\day190527_ex68.cpp" />
+    <ClCompile Include="190527\day190527_ex69.cpp" />
+    <ClCompile Include="190527\day190527_ex70.cpp" />
+    <ClCompile Include="190527\ex66.cpp" />
+    <ClCompile Include="190529\day190529.cpp" />
+    <ClCompile Include="190610\190610\190610참조자.cpp" />
+    <ClCompile Include="190610\190610\homework.cpp" />
+    <ClCompile Include="190612\game_ex1\ex4.cpp" />
+    <ClCompile Include="190612\game_ex1\ex5.cpp" />
+    <ClCompile Include="190612\game_ex1\ex6.cpp" />
+    <ClCompile Include="190617\q87.cpp" />
+    <ClCompile Include="190617\q88.cpp" />
+    <ClCompile Include="190619\game_ex2\Box.cpp" />
+    <ClCompile Include="190619\game_ex2\ex4.cpp" />
+    <ClCompile Include="190619\game_ex2\ex5.cpp" />
+    <ClCompile Include="190619\game_ex2\ex6.cpp" />
+    <ClCompile Include="190624\q92.cpp" />
+    <ClCompile Include="190624\q94.cpp" />
+    <ClCompile Include="190710\ConsoleFunctions\ConsoleFunctions.cpp" />
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\ConsoleFunctions.cpp" />
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\GameScene.cpp" />
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\MainScene.cpp" />
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\Player.cpp" />
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\소스.cpp" />
+    <ClCompile Include="190717\ConsoleFunctions\ConsoleFunctions.cpp" />
+    <ClCompile Include="190819\ex99.cpp" />
+    <ClCompile Include="190821\ex100.cpp" />
+    <ClCompile Include="190821\ex100_1.cpp" />
+    <ClCompile Include="190826\ex47pg.cpp" />
+    <ClCompile Include="190826\q103.cpp" />
+    <ClCompile Include="190826\q104.cpp" />
+    <ClCompile Include="190826\q105.cpp" />
+    <ClCompile Include="190826\q106.cpp" />
+    <ClCompile Include="190826\q107.cpp" />
     <ClCompile Include="190902\q108.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="190902\q109.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
@@ -29,6 +87,19 @@
     <ClCompile Include="190902\q110.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="190408\circle.h" />
+    <ClInclude Include="190415\Human.h" />
+    <ClInclude Include="190415\jinsang.h" />
+    <ClInclude Include="190417\Box.h" />
+    <ClInclude Include="190619\game_ex2\Box.h" />
+    <ClInclude Include="190710\ConsoleFunctions\ConsoleFunctions.h" />
+    <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\ConsoleFunctions.h" />
+    <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\GameScene.h" />
+    <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\MainScene.h" />
+    <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\Player.h" />
+    <ClInclude Include="190717\ConsoleFunctions\ConsoleFunctions.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

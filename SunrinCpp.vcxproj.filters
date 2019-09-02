@@ -13,8 +13,80 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\190408">
+      <UniqueIdentifier>{e574ad3e-e056-4eb5-86b4-f955191445a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190410">
+      <UniqueIdentifier>{2f397577-c048-4bf4-896a-d77068975f5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190415">
+      <UniqueIdentifier>{488f7cae-3a0c-4c6e-b9d9-01d2f0ca55ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190417">
+      <UniqueIdentifier>{c458fef9-0c54-412a-97e1-f3c96ff45801}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190422">
+      <UniqueIdentifier>{130e2851-dc95-4e3b-8cb3-beaa81298d64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190508">
+      <UniqueIdentifier>{5e027642-2edf-4d63-84eb-bfd133a96cf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190520">
+      <UniqueIdentifier>{bd5bcb1d-2663-41a6-b76d-cba87b6224d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190527">
+      <UniqueIdentifier>{407befec-c77e-4409-9694-e214572d0b30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190529">
+      <UniqueIdentifier>{fdbf4825-d2a2-4575-9487-1af7a9012e3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190610">
+      <UniqueIdentifier>{40dc9370-47a2-46f8-b8d5-106a845600dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190612">
+      <UniqueIdentifier>{914c2be0-1ba7-4e06-b9a3-36a94ab5d30b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190617">
+      <UniqueIdentifier>{98ffaaf3-8fb2-4e02-8c58-626df5663eee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190619">
+      <UniqueIdentifier>{32bb6e4e-d73c-4140-a8a2-dd223cfd9cf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190624">
+      <UniqueIdentifier>{74e9b8c4-3b41-4e66-bfb7-a0504ed1c299}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190710">
+      <UniqueIdentifier>{8a365c1b-fc19-48f1-b1b6-1fba124891c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190717">
+      <UniqueIdentifier>{dff3a33c-e5e3-4314-b467-f292e7fc3893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190819">
+      <UniqueIdentifier>{7d2b4b63-10cb-40da-9054-27feeddd649b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190821">
+      <UniqueIdentifier>{ef422342-7490-4d53-9883-e2899bb9c729}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190826">
+      <UniqueIdentifier>{a5ed3669-32bc-4f03-8484-da0aad98a062}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files\190902">
-      <UniqueIdentifier>{7126ea71-7a59-4709-b2a2-bacb21c28669}</UniqueIdentifier>
+      <UniqueIdentifier>{6d648452-fccb-415c-976a-c1d4c0c6761c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190612\game_ex1">
+      <UniqueIdentifier>{c8a9429e-9ee7-4e65-8c0f-d6967a8120c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190619\game_ex2">
+      <UniqueIdentifier>{fc230ebc-f266-4306-a00f-3061750db55e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190710\ConsoleFunctions">
+      <UniqueIdentifier>{4ab3d251-f2b9-4b2f-923e-da1c7d9d6852}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190717\ConsoleExample">
+      <UniqueIdentifier>{f835e640-563c-4a56-a2f1-4ca9924a4b5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\190717\ConsoleFunctions">
+      <UniqueIdentifier>{079a239a-b77d-4ee6-9c40-febe8c657e73}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -27,5 +99,217 @@
     <ClCompile Include="190902\q109.cpp">
       <Filter>Source Files\190902</Filter>
     </ClCompile>
+    <ClCompile Include="190408\circle.cpp">
+      <Filter>Source Files\190408</Filter>
+    </ClCompile>
+    <ClCompile Include="190408\Exam3-3.cpp">
+      <Filter>Source Files\190408</Filter>
+    </ClCompile>
+    <ClCompile Include="190408\Point.cpp">
+      <Filter>Source Files\190408</Filter>
+    </ClCompile>
+    <ClCompile Include="190408\Rectangle.cpp">
+      <Filter>Source Files\190408</Filter>
+    </ClCompile>
+    <ClCompile Include="190410\q40.cpp">
+      <Filter>Source Files\190410</Filter>
+    </ClCompile>
+    <ClCompile Include="190410\q41.cpp">
+      <Filter>Source Files\190410</Filter>
+    </ClCompile>
+    <ClCompile Include="190410\q42.cpp">
+      <Filter>Source Files\190410</Filter>
+    </ClCompile>
+    <ClCompile Include="190410\q43.cpp">
+      <Filter>Source Files\190410</Filter>
+    </ClCompile>
+    <ClCompile Include="190415\exam_p12.cpp">
+      <Filter>Source Files\190415</Filter>
+    </ClCompile>
+    <ClCompile Include="190415\Human.cpp">
+      <Filter>Source Files\190415</Filter>
+    </ClCompile>
+    <ClCompile Include="190417\Box.cpp">
+      <Filter>Source Files\190417</Filter>
+    </ClCompile>
+    <ClCompile Include="190417\exam44.cpp">
+      <Filter>Source Files\190417</Filter>
+    </ClCompile>
+    <ClCompile Include="190417\q48.cpp">
+      <Filter>Source Files\190417</Filter>
+    </ClCompile>
+    <ClCompile Include="190417\rps.cpp">
+      <Filter>Source Files\190417</Filter>
+    </ClCompile>
+    <ClCompile Include="190422\Circle.cpp">
+      <Filter>Source Files\190422</Filter>
+    </ClCompile>
+    <ClCompile Include="190422\Circle2.cpp">
+      <Filter>Source Files\190422</Filter>
+    </ClCompile>
+    <ClCompile Include="190422\소스포인터.cpp">
+      <Filter>Source Files\190422</Filter>
+    </ClCompile>
+    <ClCompile Include="190508\day190508.cpp">
+      <Filter>Source Files\190508</Filter>
+    </ClCompile>
+    <ClCompile Include="190508\ex58.cpp">
+      <Filter>Source Files\190508</Filter>
+    </ClCompile>
+    <ClCompile Include="190520\day190520.cpp">
+      <Filter>Source Files\190520</Filter>
+    </ClCompile>
+    <ClCompile Include="190520\q60.cpp">
+      <Filter>Source Files\190520</Filter>
+    </ClCompile>
+    <ClCompile Include="190520\q61.cpp">
+      <Filter>Source Files\190520</Filter>
+    </ClCompile>
+    <ClCompile Include="190520\q63.cpp">
+      <Filter>Source Files\190520</Filter>
+    </ClCompile>
+    <ClCompile Include="190520\q64.cpp">
+      <Filter>Source Files\190520</Filter>
+    </ClCompile>
+    <ClCompile Include="190527\190527.cpp">
+      <Filter>Source Files\190527</Filter>
+    </ClCompile>
+    <ClCompile Include="190527\day190527_ex68.cpp">
+      <Filter>Source Files\190527</Filter>
+    </ClCompile>
+    <ClCompile Include="190527\day190527_ex69.cpp">
+      <Filter>Source Files\190527</Filter>
+    </ClCompile>
+    <ClCompile Include="190527\day190527_ex70.cpp">
+      <Filter>Source Files\190527</Filter>
+    </ClCompile>
+    <ClCompile Include="190527\ex66.cpp">
+      <Filter>Source Files\190527</Filter>
+    </ClCompile>
+    <ClCompile Include="190529\day190529.cpp">
+      <Filter>Source Files\190529</Filter>
+    </ClCompile>
+    <ClCompile Include="190610\190610\190610참조자.cpp">
+      <Filter>Source Files\190610</Filter>
+    </ClCompile>
+    <ClCompile Include="190610\190610\homework.cpp">
+      <Filter>Source Files\190610</Filter>
+    </ClCompile>
+    <ClCompile Include="190617\q87.cpp">
+      <Filter>Source Files\190617</Filter>
+    </ClCompile>
+    <ClCompile Include="190617\q88.cpp">
+      <Filter>Source Files\190617</Filter>
+    </ClCompile>
+    <ClCompile Include="190612\game_ex1\ex6.cpp">
+      <Filter>Source Files\190612\game_ex1</Filter>
+    </ClCompile>
+    <ClCompile Include="190612\game_ex1\ex4.cpp">
+      <Filter>Source Files\190612\game_ex1</Filter>
+    </ClCompile>
+    <ClCompile Include="190612\game_ex1\ex5.cpp">
+      <Filter>Source Files\190612\game_ex1</Filter>
+    </ClCompile>
+    <ClCompile Include="190619\game_ex2\ex4.cpp">
+      <Filter>Source Files\190619\game_ex2</Filter>
+    </ClCompile>
+    <ClCompile Include="190619\game_ex2\ex5.cpp">
+      <Filter>Source Files\190619\game_ex2</Filter>
+    </ClCompile>
+    <ClCompile Include="190619\game_ex2\ex6.cpp">
+      <Filter>Source Files\190619\game_ex2</Filter>
+    </ClCompile>
+    <ClCompile Include="190619\game_ex2\Box.cpp">
+      <Filter>Source Files\190619\game_ex2</Filter>
+    </ClCompile>
+    <ClCompile Include="190624\q92.cpp">
+      <Filter>Source Files\190624</Filter>
+    </ClCompile>
+    <ClCompile Include="190624\q94.cpp">
+      <Filter>Source Files\190624</Filter>
+    </ClCompile>
+    <ClCompile Include="190710\ConsoleFunctions\ConsoleFunctions.cpp">
+      <Filter>Source Files\190710\ConsoleFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\ConsoleFunctions.cpp">
+      <Filter>Source Files\190717\ConsoleFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="190717\ConsoleFunctions\ConsoleFunctions.cpp">
+      <Filter>Source Files\190717\ConsoleFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\GameScene.cpp">
+      <Filter>Source Files\190717\ConsoleExample</Filter>
+    </ClCompile>
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\MainScene.cpp">
+      <Filter>Source Files\190717\ConsoleExample</Filter>
+    </ClCompile>
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\Player.cpp">
+      <Filter>Source Files\190717\ConsoleExample</Filter>
+    </ClCompile>
+    <ClCompile Include="190717\ConsoleExample\ConsoleApplication15\소스.cpp">
+      <Filter>Source Files\190717\ConsoleExample</Filter>
+    </ClCompile>
+    <ClCompile Include="190819\ex99.cpp">
+      <Filter>Source Files\190819</Filter>
+    </ClCompile>
+    <ClCompile Include="190821\ex100.cpp">
+      <Filter>Source Files\190821</Filter>
+    </ClCompile>
+    <ClCompile Include="190821\ex100_1.cpp">
+      <Filter>Source Files\190821</Filter>
+    </ClCompile>
+    <ClCompile Include="190826\ex47pg.cpp">
+      <Filter>Source Files\190826</Filter>
+    </ClCompile>
+    <ClCompile Include="190826\q103.cpp">
+      <Filter>Source Files\190826</Filter>
+    </ClCompile>
+    <ClCompile Include="190826\q104.cpp">
+      <Filter>Source Files\190826</Filter>
+    </ClCompile>
+    <ClCompile Include="190826\q105.cpp">
+      <Filter>Source Files\190826</Filter>
+    </ClCompile>
+    <ClCompile Include="190826\q106.cpp">
+      <Filter>Source Files\190826</Filter>
+    </ClCompile>
+    <ClCompile Include="190826\q107.cpp">
+      <Filter>Source Files\190826</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="190408\circle.h">
+      <Filter>Source Files\190408</Filter>
+    </ClInclude>
+    <ClInclude Include="190415\Human.h">
+      <Filter>Source Files\190415</Filter>
+    </ClInclude>
+    <ClInclude Include="190415\jinsang.h">
+      <Filter>Source Files\190415</Filter>
+    </ClInclude>
+    <ClInclude Include="190417\Box.h">
+      <Filter>Source Files\190417</Filter>
+    </ClInclude>
+    <ClInclude Include="190619\game_ex2\Box.h">
+      <Filter>Source Files\190619\game_ex2</Filter>
+    </ClInclude>
+    <ClInclude Include="190710\ConsoleFunctions\ConsoleFunctions.h">
+      <Filter>Source Files\190710\ConsoleFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\ConsoleFunctions.h">
+      <Filter>Source Files\190717\ConsoleFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="190717\ConsoleFunctions\ConsoleFunctions.h">
+      <Filter>Source Files\190717\ConsoleFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\GameScene.h">
+      <Filter>Source Files\190717\ConsoleExample</Filter>
+    </ClInclude>
+    <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\MainScene.h">
+      <Filter>Source Files\190717\ConsoleExample</Filter>
+    </ClInclude>
+    <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\Player.h">
+      <Filter>Source Files\190717\ConsoleExample</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
