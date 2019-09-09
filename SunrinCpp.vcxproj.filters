@@ -88,6 +88,9 @@
     <Filter Include="Source Files\190717\ConsoleFunctions">
       <UniqueIdentifier>{079a239a-b77d-4ee6-9c40-febe8c657e73}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\190909">
+      <UniqueIdentifier>{9d2ac42a-46ae-4c95-abf0-6a007ee657b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="190902\q110.cpp">
@@ -275,6 +278,12 @@
     </ClCompile>
     <ClCompile Include="190826\q107.cpp">
       <Filter>Source Files\190826</Filter>
+    </ClCompile>
+    <ClCompile Include="190909\Source.cpp">
+      <Filter>Source Files\190909</Filter>
+    </ClCompile>
+    <ClCompile Include="190909\q114.cpp">
+      <Filter>Source Files\190909</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
