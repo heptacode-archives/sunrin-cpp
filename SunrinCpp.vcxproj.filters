@@ -94,6 +94,9 @@
     <Filter Include="Source Files\190916">
       <UniqueIdentifier>{aba9e556-c05c-4d0d-a75a-70f6637419ab}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\190918">
+      <UniqueIdentifier>{89e1442d-73a5-4a27-a2e3-b0b280a97af9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="190902\q110.cpp">
@@ -294,6 +297,15 @@
     <ClCompile Include="190916\q118.cpp">
       <Filter>Source Files\190916</Filter>
     </ClCompile>
+    <ClCompile Include="190918\WinApp.cpp">
+      <Filter>Source Files\190918</Filter>
+    </ClCompile>
+    <ClCompile Include="190918\Framework.cpp">
+      <Filter>Source Files\190918</Filter>
+    </ClCompile>
+    <ClCompile Include="190918\Source.cpp">
+      <Filter>Source Files\190918</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="190408\circle.h">
@@ -328,6 +340,12 @@
     </ClInclude>
     <ClInclude Include="190717\ConsoleExample\ConsoleApplication15\Player.h">
       <Filter>Source Files\190717\ConsoleExample</Filter>
+    </ClInclude>
+    <ClInclude Include="190918\WinApp.h">
+      <Filter>Source Files\190918</Filter>
+    </ClInclude>
+    <ClInclude Include="190918\Framework.h">
+      <Filter>Source Files\190918</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
