@@ -4,7 +4,7 @@
 int main()
 {
 	Framework& f = Framework::GetInstance();
-	f.Run(new Scene(),L"타이틀", 800, 600, false);
+	f.Run(L"타이틀", 800, 600, false);
 
 	return 0;
 }

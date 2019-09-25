@@ -13,7 +13,10 @@ void Framework::Run(const wchar_t* title, int width, int height, bool isFullScre
 		{
 			if (d2dApp.Initialize())
 			{
+				scene = new Scene();
+				scene->Initialize();
 				StartGameLoop();
+				delete scene;
 				d2dApp.Uninitialize();
 			}
 		}
@@ -32,6 +35,8 @@ void Framework::StartGameLoop()
 			TranslateMessage(&msg);
 			DispatchMessage(&msg);
 		}
+		scene->Update();
+		scene->Render();
 	}
 }
 

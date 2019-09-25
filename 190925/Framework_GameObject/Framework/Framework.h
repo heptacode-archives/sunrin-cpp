@@ -9,6 +9,7 @@ public:
 private:
 	WinApp winApp;
 	D2DApp d2dApp;
+	Scene* scene;
 
 public:
 	void Run(const wchar_t* title, int width, int height, bool isFullScreen);
