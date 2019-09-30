@@ -97,6 +97,9 @@
     <Filter Include="Source Files\190918">
       <UniqueIdentifier>{89e1442d-73a5-4a27-a2e3-b0b280a97af9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\190930">
+      <UniqueIdentifier>{3420c760-76f6-4e0c-bab2-8b135f6cef9e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="190902\q110.cpp">
@@ -305,6 +308,18 @@
     </ClCompile>
     <ClCompile Include="190918\Source.cpp">
       <Filter>Source Files\190918</Filter>
+    </ClCompile>
+    <ClCompile Include="190930\Liger.cpp">
+      <Filter>Source Files\190930</Filter>
+    </ClCompile>
+    <ClCompile Include="190930\Source.cpp">
+      <Filter>Source Files\190930</Filter>
+    </ClCompile>
+    <ClCompile Include="190930\q120(calc).cpp">
+      <Filter>Source Files\190930</Filter>
+    </ClCompile>
+    <ClCompile Include="190930\q128(shape).cpp">
+      <Filter>Source Files\190930</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
