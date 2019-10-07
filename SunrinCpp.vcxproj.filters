@@ -103,6 +103,9 @@
     <Filter Include="Source Files\191002">
       <UniqueIdentifier>{05613066-fb6f-4943-a885-e36ab622a1ec}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\191007">
+      <UniqueIdentifier>{9b004c34-bca4-48df-8d2f-1765466dd9d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="190902\q110.cpp">
@@ -323,6 +326,15 @@
     </ClCompile>
     <ClCompile Include="190930\q128(shape).cpp">
       <Filter>Source Files\190930</Filter>
+    </ClCompile>
+    <ClCompile Include="191007\q131.cpp">
+      <Filter>Source Files\191007</Filter>
+    </ClCompile>
+    <ClCompile Include="191007\q132.cpp">
+      <Filter>Source Files\191007</Filter>
+    </ClCompile>
+    <ClCompile Include="191007\q133.cpp">
+      <Filter>Source Files\191007</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
