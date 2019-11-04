@@ -247,6 +247,56 @@
     <ClCompile Include="191007\q133.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="191023\Framework\AABBCollider.cpp" />
+    <ClCompile Include="191023\Framework\Bullet.cpp" />
+    <ClCompile Include="191023\Framework\BulletManager.cpp" />
+    <ClCompile Include="191023\Framework\CircleCollider.cpp" />
+    <ClCompile Include="191023\Framework\Collider.cpp" />
+    <ClCompile Include="191023\Framework\Collision.cpp" />
+    <ClCompile Include="191023\Framework\Component.cpp" />
+    <ClCompile Include="191023\Framework\D2DApp.cpp" />
+    <ClCompile Include="191023\Framework\Framework.cpp" />
+    <ClCompile Include="191023\Framework\GameObject.cpp" />
+    <ClCompile Include="191023\Framework\GameScene.cpp" />
+    <ClCompile Include="191023\Framework\InputManager.cpp" />
+    <ClCompile Include="191023\Framework\main.cpp" />
+    <ClCompile Include="191023\Framework\Player.cpp" />
+    <ClCompile Include="191023\Framework\Renderer.cpp" />
+    <ClCompile Include="191023\Framework\ResourceManager.cpp" />
+    <ClCompile Include="191023\Framework\Scene.cpp" />
+    <ClCompile Include="191023\Framework\TimeManager.cpp" />
+    <ClCompile Include="191023\Framework\Transform.cpp" />
+    <ClCompile Include="191023\Framework\WinApp.cpp" />
+    <ClCompile Include="191030\Framework\AABBCollider.cpp" />
+    <ClCompile Include="191030\Framework\Animation.cpp" />
+    <ClCompile Include="191030\Framework\AnimationRenderer.cpp" />
+    <ClCompile Include="191030\Framework\Bullet.cpp" />
+    <ClCompile Include="191030\Framework\BulletManager.cpp" />
+    <ClCompile Include="191030\Framework\CircleCollider.cpp" />
+    <ClCompile Include="191030\Framework\Collider.cpp" />
+    <ClCompile Include="191030\Framework\Collision.cpp" />
+    <ClCompile Include="191030\Framework\Component.cpp" />
+    <ClCompile Include="191030\Framework\D2DApp.cpp" />
+    <ClCompile Include="191030\Framework\Enemy.cpp" />
+    <ClCompile Include="191030\Framework\EnemyManager.cpp" />
+    <ClCompile Include="191030\Framework\Framework.cpp" />
+    <ClCompile Include="191030\Framework\GameObject.cpp" />
+    <ClCompile Include="191030\Framework\GameScene.cpp" />
+    <ClCompile Include="191030\Framework\InputManager.cpp" />
+    <ClCompile Include="191030\Framework\ListAnimation.cpp" />
+    <ClCompile Include="191030\Framework\main.cpp" />
+    <ClCompile Include="191030\Framework\PhysicsManager.cpp" />
+    <ClCompile Include="191030\Framework\Player.cpp" />
+    <ClCompile Include="191030\Framework\Renderer.cpp" />
+    <ClCompile Include="191030\Framework\ResourceManager.cpp" />
+    <ClCompile Include="191030\Framework\Scene.cpp" />
+    <ClCompile Include="191030\Framework\SheetAnimation.cpp" />
+    <ClCompile Include="191030\Framework\TimeManager.cpp" />
+    <ClCompile Include="191030\Framework\Transform.cpp" />
+    <ClCompile Include="191030\Framework\WinApp.cpp" />
+    <ClCompile Include="191104\ex1.cpp" />
+    <ClCompile Include="191104\q134.cpp" />
+    <ClCompile Include="191104\q135.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="190408\circle.h">
@@ -288,6 +338,59 @@
     <ClInclude Include="190918\WinApp.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClInclude>
+    <ClInclude Include="191023\Framework\AABBCollider.h" />
+    <ClInclude Include="191023\Framework\Bullet.h" />
+    <ClInclude Include="191023\Framework\BulletManager.h" />
+    <ClInclude Include="191023\Framework\CircleCollider.h" />
+    <ClInclude Include="191023\Framework\Collider.h" />
+    <ClInclude Include="191023\Framework\Collision.h" />
+    <ClInclude Include="191023\Framework\Component.h" />
+    <ClInclude Include="191023\Framework\D2DApp.h" />
+    <ClInclude Include="191023\Framework\Framework.h" />
+    <ClInclude Include="191023\Framework\GameObject.h" />
+    <ClInclude Include="191023\Framework\GameScene.h" />
+    <ClInclude Include="191023\Framework\InputManager.h" />
+    <ClInclude Include="191023\Framework\Math.h" />
+    <ClInclude Include="191023\Framework\Player.h" />
+    <ClInclude Include="191023\Framework\Renderer.h" />
+    <ClInclude Include="191023\Framework\ResourceManager.h" />
+    <ClInclude Include="191023\Framework\Scene.h" />
+    <ClInclude Include="191023\Framework\stdafx.h" />
+    <ClInclude Include="191023\Framework\TimeManager.h" />
+    <ClInclude Include="191023\Framework\Transform.h" />
+    <ClInclude Include="191023\Framework\WinApp.h" />
+    <ClInclude Include="191030\Framework\AABBCollider.h" />
+    <ClInclude Include="191030\Framework\Animation.h" />
+    <ClInclude Include="191030\Framework\AnimationRenderer.h" />
+    <ClInclude Include="191030\Framework\Bullet.h" />
+    <ClInclude Include="191030\Framework\BulletManager.h" />
+    <ClInclude Include="191030\Framework\CircleCollider.h" />
+    <ClInclude Include="191030\Framework\Collider.h" />
+    <ClInclude Include="191030\Framework\Collision.h" />
+    <ClInclude Include="191030\Framework\Component.h" />
+    <ClInclude Include="191030\Framework\D2DApp.h" />
+    <ClInclude Include="191030\Framework\Enemy.h" />
+    <ClInclude Include="191030\Framework\EnemyManager.h" />
+    <ClInclude Include="191030\Framework\Framework.h" />
+    <ClInclude Include="191030\Framework\GameObject.h" />
+    <ClInclude Include="191030\Framework\GameScene.h" />
+    <ClInclude Include="191030\Framework\InputManager.h" />
+    <ClInclude Include="191030\Framework\ListAnimation.h" />
+    <ClInclude Include="191030\Framework\Math.h" />
+    <ClInclude Include="191030\Framework\PhysicsManager.h" />
+    <ClInclude Include="191030\Framework\Player.h" />
+    <ClInclude Include="191030\Framework\Renderer.h" />
+    <ClInclude Include="191030\Framework\ResourceManager.h" />
+    <ClInclude Include="191030\Framework\Scene.h" />
+    <ClInclude Include="191030\Framework\SheetAnimation.h" />
+    <ClInclude Include="191030\Framework\stdafx.h" />
+    <ClInclude Include="191030\Framework\TimeManager.h" />
+    <ClInclude Include="191030\Framework\Transform.h" />
+    <ClInclude Include="191030\Framework\WinApp.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="191023\Framework\Math.inl" />
+    <None Include="191030\Framework\Math.inl" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

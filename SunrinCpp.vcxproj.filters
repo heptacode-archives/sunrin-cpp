@@ -106,6 +106,15 @@
     <Filter Include="Source Files\191007">
       <UniqueIdentifier>{9b004c34-bca4-48df-8d2f-1765466dd9d2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\191023">
+      <UniqueIdentifier>{25381eef-ff83-4ff2-8c38-b01f37483894}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\191030">
+      <UniqueIdentifier>{d1cb495e-d683-4706-a5b9-69ba3bbe3138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\191104">
+      <UniqueIdentifier>{f81a0055-a9f3-4748-9926-512f1a338bbc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="190902\q110.cpp">
@@ -336,6 +345,156 @@
     <ClCompile Include="191007\q133.cpp">
       <Filter>Source Files\191007</Filter>
     </ClCompile>
+    <ClCompile Include="191023\Framework\AABBCollider.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Bullet.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\BulletManager.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\CircleCollider.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Collider.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Collision.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Component.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\D2DApp.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Framework.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\GameObject.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\GameScene.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\InputManager.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\main.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Player.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Renderer.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\ResourceManager.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Scene.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\TimeManager.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\Transform.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191023\Framework\WinApp.cpp">
+      <Filter>Source Files\191023</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\AABBCollider.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Animation.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\AnimationRenderer.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Bullet.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\BulletManager.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\CircleCollider.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Collider.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Collision.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Component.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\D2DApp.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Enemy.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\EnemyManager.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Framework.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\GameObject.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\GameScene.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\InputManager.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\ListAnimation.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\main.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\PhysicsManager.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Player.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Renderer.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\ResourceManager.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Scene.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\SheetAnimation.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\TimeManager.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\Transform.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191030\Framework\WinApp.cpp">
+      <Filter>Source Files\191030</Filter>
+    </ClCompile>
+    <ClCompile Include="191104\ex1.cpp">
+      <Filter>Source Files\191104</Filter>
+    </ClCompile>
+    <ClCompile Include="191104\q134.cpp">
+      <Filter>Source Files\191104</Filter>
+    </ClCompile>
+    <ClCompile Include="191104\q135.cpp">
+      <Filter>Source Files\191104</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="190408\circle.h">
@@ -377,5 +536,160 @@
     <ClInclude Include="190918\Framework.h">
       <Filter>Source Files\190918</Filter>
     </ClInclude>
+    <ClInclude Include="191023\Framework\AABBCollider.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Bullet.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\BulletManager.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\CircleCollider.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Collider.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Collision.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Component.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\D2DApp.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Framework.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\GameObject.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\GameScene.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\InputManager.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Math.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Player.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Renderer.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\ResourceManager.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Scene.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\stdafx.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\TimeManager.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\Transform.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191023\Framework\WinApp.h">
+      <Filter>Source Files\191023</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\AABBCollider.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Animation.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\AnimationRenderer.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Bullet.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\BulletManager.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\CircleCollider.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Collider.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Collision.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Component.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\D2DApp.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Enemy.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\EnemyManager.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Framework.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\GameObject.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\GameScene.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\InputManager.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\ListAnimation.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Math.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\PhysicsManager.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Player.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Renderer.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\ResourceManager.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Scene.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\SheetAnimation.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\stdafx.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\TimeManager.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\Transform.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+    <ClInclude Include="191030\Framework\WinApp.h">
+      <Filter>Source Files\191030</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="191023\Framework\Math.inl">
+      <Filter>Source Files\191023</Filter>
+    </None>
+    <None Include="191030\Framework\Math.inl">
+      <Filter>Source Files\191030</Filter>
+    </None>
   </ItemGroup>
 </Project>
