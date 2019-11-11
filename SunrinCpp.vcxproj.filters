@@ -501,6 +501,12 @@
     <ClCompile Include="191111\Source.cpp">
       <Filter>Source Files\191111</Filter>
     </ClCompile>
+    <ClCompile Include="191111\q143.cpp">
+      <Filter>Source Files\191111</Filter>
+    </ClCompile>
+    <ClCompile Include="191111\q142.cpp">
+      <Filter>Source Files\191111</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="190408\circle.h">
